@@ -1,0 +1,7 @@
+"runOnSave.commands": [
+  {
+    "match": ".*",
+    "isAsync": true,
+    "cmd": "~/.vscode_git_autosync.sh"
+  }
+]
