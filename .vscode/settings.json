@@ -1,17 +1,23 @@
 {
-    "window.autoDetectColorScheme": true,
-    "window.density.editorTabHeight": "compact",
-    "terminal.explorerKind": "both",
-    "terminal.integrated.allowChords": false,
-    "remote.autoForwardPorts": false,
-    "chat.agent.maxRequests": 1,
-    "chat.agent.thinkingStyle": "fixedScrolling",
-    "ipynb.experimental.serialization": false,
-    "ipynb.pasteImagesAsAttachments.enabled": false,
-    "chatgpt.commentCodeLensEnabled": false,
-    "github.copilot.chat.agent.autoFix": false,
-    "github.copilot.chat.gpt5CodexAlternatePrompt": "default",
-    "chatgpt.openOnStartup": true,
-    "editor.defaultFormatter": "GitHub.copilot-chat",
-    "editor.defaultFoldingRangeProvider": "GitHub.copilot"
+  // --- your existing prefs can live here too ---
+
+  // Auto-save helps trigger the sync
+  "files.autoSave": "onFocusChange",
+
+  // Git quality-of-life
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // Run the autosync script on every save in THIS workspace
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        "match": ".*",                 // run for any file save
+        "isAsync": true,
+        "cmd": "${workspaceFolder}/.vscode_git_autosync.sh"
+      }
+    ]
+  }
 }
