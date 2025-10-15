@@ -35,5 +35,5 @@ Unfiltered ideas, quotes, fragments, or lines that may later find their way into
 - The Apple “Crazy Ones” manifesto.
 - John Lennon — “I blamed you for not taking me with her.”
 
-## the view was better. I'm loved and lost is very myopic.
+## I am calling total bullshit The phrase "'Tis better to have loved and lost than never to have loved at all" was written by Alfred, Lord Tennyson in his poem In Memoriam A.H.H.. It is spoken as gospel in a disgusting myopic way without in context.
 - many people fall in love. Sometimes to break up destroys the mind, body and soul in a way it can never be repaired and the destruction is worse than when god banished some angels from heaven. There is absolutely no path for them to return to grace. these fallen angels become the transactional. Everyday they know there will never be forgives or understanding. Who who would even symapthyz with the fallen? You will be labeled for helping them. Here is where i find all of me. i single act of kindness like when someone bough me fruit make me cry because i fought what it felt like.
