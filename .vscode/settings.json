@@ -1,0 +1,17 @@
+{
+    "window.autoDetectColorScheme": true,
+    "window.density.editorTabHeight": "compact",
+    "terminal.explorerKind": "both",
+    "terminal.integrated.allowChords": false,
+    "remote.autoForwardPorts": false,
+    "chat.agent.maxRequests": 1,
+    "chat.agent.thinkingStyle": "fixedScrolling",
+    "ipynb.experimental.serialization": false,
+    "ipynb.pasteImagesAsAttachments.enabled": false,
+    "chatgpt.commentCodeLensEnabled": false,
+    "github.copilot.chat.agent.autoFix": false,
+    "github.copilot.chat.gpt5CodexAlternatePrompt": "default",
+    "chatgpt.openOnStartup": true,
+    "editor.defaultFormatter": "GitHub.copilot-chat",
+    "editor.defaultFoldingRangeProvider": "GitHub.copilot"
+}
