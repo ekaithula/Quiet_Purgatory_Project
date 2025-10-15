@@ -1,0 +1,160 @@
+== Quiet Purgatory – Triage Report ==
+Timestamp: Wed Oct 15 04:47:22 PDT 2025
+PWD: /Users/erickaithula/Documents/Quiet_Purgatory_Project
+
+--- GIT BASICS ---
+true
+Branch: main
+ M .DS_Store
+ M ideas/parking_lot.md
+?? .vscode/
+?? back_/
+?? forensics/
+?? "ideas/Sometimes I meditate on the insults rece.sty"
+?? repo_triage.sh
+
+--- FETCH REMOTE & SHOW DIVERGENCE ---
+
+Commits you have not pushed (HEAD but not on origin/main):
+
+Commits remote has that you don't (origin/main but not HEAD):
+
+--- RECENT COMMITS (last 72h, with changed files) ---
+6d92a3a 🪶 Auto-sync: 2025-10-15 01:49:20  (3 hours ago)
+M	.DS_Store
+
+0ca133d Update parking lot ideas and notes  (3 hours ago)
+M	.DS_Store
+A	ideas/.DS_Store
+A	ideas/Shell/confirm.sh
+
+a772d44 🪶 Auto-sync: 2025-10-15 01:21:47  (3 hours ago)
+M	.DS_Store
+
+70a2d3c 🪶 Auto-sync: 2025-10-15 01:21:15  (3 hours ago)
+A	.DS_Store
+A	CC/Scripts/json
+A	CC/to my daughter
+A	ideas/.gitignore
+A	ideas/parking_lot.md
+A	references/.DS_Store
+A	test_sync.txt
+
+99f5dbb Initial commit – project skeleton and manuscript base  (6 hours ago)
+M	Quiet_Purgatory_Manuscript.md
+
+c851c9f Initial commit – project skeleton and manuscript base  (6 hours ago)
+M	Quiet_Purgatory_Manuscript.md
+
+873adaf Initial commit – project skeleton and manuscript base  (6 hours ago)
+A	Quiet_Purgatory_Manuscript.md
+
+--- REFLOG (last 50) ---
+6d92a3a HEAD@{0}: commit: 🪶 Auto-sync: 2025-10-15 01:49:20
+0ca133d HEAD@{1}: commit: Update parking lot ideas and notes
+a772d44 HEAD@{2}: commit: 🪶 Auto-sync: 2025-10-15 01:21:47
+70a2d3c HEAD@{3}: commit: 🪶 Auto-sync: 2025-10-15 01:21:15
+99f5dbb HEAD@{4}: Branch: renamed refs/heads/main to refs/heads/main
+99f5dbb HEAD@{6}: commit: Initial commit – project skeleton and manuscript base
+c851c9f HEAD@{7}: commit: Initial commit – project skeleton and manuscript base
+873adaf HEAD@{8}: commit (initial): Initial commit – project skeleton and manuscript base
+
+--- STASH LIST ---
+
+--- MODIFIED/UNTRACKED FILES ---
+Modified:
+.DS_Store
+ideas/parking_lot.md
+Untracked:
+.vscode/settings.json
+back_/Sometimes I meditate on the repeated ins
+forensics/triage_report_2025-10-15_0447.txt
+ideas/Sometimes I meditate on the insults rece.sty
+repo_triage.sh
+
+--- FILES MOST RECENTLY TOUCHED (last 48h) ---
+./forensics/triage_report_2025-10-15_0447.txt
+./repo_triage.sh
+./.DS_Store
+./ideas/Sometimes I meditate on the insults rece.sty
+./ideas/parking_lot.md
+./back_/Sometimes I meditate on the repeated ins
+./.vscode/settings.json
+./ideas/.DS_Store
+./ideas/Shell/confirm.sh
+./references/.DS_Store
+./ideas/chat_logs/.gitkeep
+./ideas/.gitignore
+./test_sync.txt
+./CC/Scripts/json
+./CC/to my daughter
+./Quiet_Purgatory_Manuscript.md
+
+--- GREP FOR LIKELY PHRASES (voice rant anchors) ---
+
+>>> Searching for: voice rant
+
+>>> Searching for: last voice
+
+>>> Searching for: Even the devil may cry
+
+>>> Searching for: devil rejected me
+
+>>> Searching for: Lucifer rejected me
+
+>>> Searching for: death of a thousand cuts
+
+>>> Searching for: Quiet Purgatory
+
+>>> Searching for: 107 days
+
+>>> Searching for: separation agreement
+
+>>> Searching for: nirvana in hell
+
+>>> Searching for: lubarna in hell
+
+>>> Searching for: True Colors
+
+>>> Searching for: suicide ward
+
+--- AUDIO HUNT (common formats) ---
+
+--- GIT ORPHANS (only helps if it was ever committed) ---
+dangling tree 8393645535c732de46065e15a0e60e3a3eaedd83
+dangling tree b55918338d29082aab251372e65f7c697ca8b73e
+dangling tree 6ae14eb565843c58aee08cd5b90e65b8540cf8ce
+
+--- VS CODE BACKUPS (unsaved/dirty editors) ---
+Backups directory: /Users/erickaithula/Library/Application Support/Code/Backups
+
+>>> Searching VS Code Backups for: voice rant
+
+>>> Searching VS Code Backups for: last voice
+
+>>> Searching VS Code Backups for: Even the devil may cry
+
+>>> Searching VS Code Backups for: devil rejected me
+
+>>> Searching VS Code Backups for: Lucifer rejected me
+
+>>> Searching VS Code Backups for: death of a thousand cuts
+
+>>> Searching VS Code Backups for: Quiet Purgatory
+
+>>> Searching VS Code Backups for: 107 days
+
+>>> Searching VS Code Backups for: separation agreement
+
+>>> Searching VS Code Backups for: nirvana in hell
+
+>>> Searching VS Code Backups for: lubarna in hell
+
+>>> Searching VS Code Backups for: True Colors
+
+>>> Searching VS Code Backups for: suicide ward
+
+--- TIMELINE TIP (manual) ---
+In VS Code: right-click the file > Open Timeline (checks local history even if not committed).
+
+Done. Report written to: forensics/triage_report_2025-10-15_0447.txt
